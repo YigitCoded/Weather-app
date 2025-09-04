@@ -24,7 +24,7 @@ npm start
 
 ## 📸 Screenshots
 
-### Desktop View
+### 2.Desktop View
 ![Desktop Screenshot](assets/hava.PNG)
 
 ### Mobile View
