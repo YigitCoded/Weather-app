@@ -14,15 +14,6 @@ A simple weather application built with **React** that shows the current weather
 - OpenWeatherMap API  
 - CSS (basic responsive styling)
 
-- 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YigitCoded/weather-app.git
-cd weather-app
-npm start
-
-## 🚀 Getting Started
-
 ## 📸 Screenshots
 
 ### Desktop View
