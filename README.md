@@ -20,3 +20,5 @@ A simple weather application built with **React** that shows the current weather
 ```bash
 git clone https://github.com/YigitCoded/weather-app.git
 cd weather-app
+npm start
+
