@@ -22,3 +22,8 @@ git clone https://github.com/YigitCoded/weather-app.git
 cd weather-app
 npm start
 
+## Screenshots
+
+![Screenshot 1](assets/hava.PNG)
+![Screenshot 2](assets/havamobil.PNG)
+
